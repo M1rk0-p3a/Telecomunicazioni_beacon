@@ -41,6 +41,4 @@ I beacon Bluetooth trovano applicazione in diversi settori:
 - **Musei**: Informazioni interattive sugli oggetti esposti.
 - **Eventi sportivi**: Navigazione all'interno degli stadi e gestione del pubblico.
 
-## Conclusione
-I beacon Bluetooth sono dispositivi versatili ed efficienti per applicazioni basate sulla localizzazione, grazie al loro basso consumo energetico e alla capacità di interagire con dispositivi mobili nelle vicinanze.
 
