@@ -7,11 +7,11 @@ I beacon Bluetooth sono dispositivi hardware che trasmettono segnali utilizzando
 ### Hardware
 Un beacon Bluetooth include:
 - **Microcontrollore** con un chip radio BLE.
-- **Batteria**, generalmente a bottone agli ioni di litio (240 mAh - 1000 mAh), che può durare oltre un anno grazie al basso consumo energetico del BLE. Alcuni modelli utilizzano batterie AA alcaline o possono essere alimentati tramite USB o presa di corrente.
+- **Batteria**, generalmente a bottone agli ioni di litio (240 mAh - 1000 mAh), di conseguenza molto compatta e con poca capacità, che può durare oltre un anno grazie al basso consumo energetico del BLE. Alcuni modelli utilizzano batterie di tipoogia AA alcaline o possono essere alimentati tramite USB o presa di corrente.
 
 ### Firmware
-Il firmware del beacon controlla diversi parametri:
-- **Potenza di Trasmissione (Tx Power)**: Determina la distanza di copertura del segnale. Un valore alto aumenta il raggio ma riduce la durata della batteria.
+Il firmware del beacon controlla principalmente i seguenti parametri:
+- **Potenza di Trasmissione (Tx Power)**: Determina la distanza di copertura del segnale. Un valore alto aumenta il raggio in cui il segnale è visivile ma riduce la durata della batteria in quanto aumenta la richiesta di energia.
 - **Intervallo di Advertising**: Frequenza di emissione del segnale. Un intervallo breve (100 ms) aumenta la reattività ma consuma più energia, mentre uno lungo (500 ms) riduce il consumo ma può diminuire la reattività.
 
 ## Principali protocolli di beacon
@@ -40,5 +40,6 @@ I beacon Bluetooth trovano applicazione in diversi settori:
 - **Commercio al dettaglio**: Offerte speciali e pagamenti mobili.
 - **Musei**: Informazioni interattive sugli oggetti esposti.
 - **Eventi sportivi**: Navigazione all'interno degli stadi e gestione del pubblico.
+- **Altro**: Con la continua diffusione di questa tecnologia si stanno scoprendo sempre più campi d'utilizzo, attualmente è in forte crescita nei settori della sanità e dell'istruzione.
 
 
